@@ -1,0 +1,15 @@
+crawl*
+./CTP*
+data*
+db.sqlite3
+image*
+/map.html
+/sendPush.py
+/service*
+/sudo
+/.vscode
+__pycache__
+/CTP*
+/travely/settings.py
+/static
+migrations
